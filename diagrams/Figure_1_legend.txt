@@ -1,0 +1,8 @@
+Figure 1:
+A schematic drawing of the data analysis pipeline in the app. Input data (shown in blue at the top of the diagram) is
+loaded and the user can either apply different pre-processing procedures to the data or proceed directly to setting up a
+statistical test. The app has various statistical tests that yield p-values as a result. In addition, the app contains a page for
+the calculation of fold changes. Fold changes and p-values can be combined to be visualised as a volcano plot. For iGA
+and db-iGA, the user will have to load an annotations file. The metrics data for iGA can come from the statistical tests
+performed within the app, or can be loaded from an external file. Fold changes results of paired samples and iGA results
+can be visualised using heat maps.

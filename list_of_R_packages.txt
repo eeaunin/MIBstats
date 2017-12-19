@@ -1,0 +1,17 @@
+R packages used in the app:
+R packages that were used were the following. stats (version 3.4.1): used for various
+statistics-related tasks. preprocessCore (version 1.38.1): used for quantile normalisation.
+cowplot (version 0.8.0): used for modifying the look of ggplot2 figures. vsn (version 3.44.0): used for variance stabilising normalisation. rlist (version 0.4.6.1 ): used for performing
+operations on lists. reshape (version 0.8.7): used for restructuring data in order to plot it.
+shinyBS (version 0.61): used for additional user interface (UI) elements, such as tooltips.
+ggfortify (version 0.4.1): used for plotting principal component analysis (PCA) data. plotly
+(version 4.7.1): used for generating PCA plots and volcano plot. Rmpfr (version 0.6.1):
+used for arbitrary precision floating point numbers in iGA. shinyjs (version 0.9.1): used for
+performing JavaScript operations within the Shiny app (enabling and disabling buttons). tools
+(version 3.4.1): used for getting file extensions from path names. ggplot2 (version 2.2.1.9000): used for plotting diagrams. gplots (version 3.0.1): used for generating a heat map via the
+heatmap.2 function. RankProd (version 3.2.0): used for calculating rank product. LMGene
+(v2.28.0): used for generalised log transformation function. dplyr (0.7.2): used the “funs”
+function to create a list of functions calls. data.table (1.10.4): used for transposing tables. grid
+(3.4.1): used in a function that plots multiple ggplot2 graphs on one plot. plyr (1.8.4):
+used for processing list elements. DT (0.2): used to generate DataTables.
+For button icons, the Font Awesome library was used.

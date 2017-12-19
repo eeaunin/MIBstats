@@ -1,0 +1,14 @@
+Figure 2:
+A diagram of the Shiny modules and S4 objects in the app. The dark gray rectangle at the centre of the figure
+represents the shared namespace of the server part of the Shiny app. The light gray rectangles represent Shiny
+modules. The names of the modules are written on the light gray rectangles as bold text. The names of the instances of
+the Shiny modules used in the app are indicated in the figure as the words surrounded by quotation marks on the light
+gray rectangles. The white rectangles represent S4 objects. The locations of the white rectangles inside the gray
+rectangles indicate which namespace (a module or the shared space) each S4 object belongs to. The arrows between
+the diagram elements indicate communication using Shiny reactives and callModule commands. The directions of arrows
+show the direction of communication.
+The instances of two small modules, which are widely accessed throughout the app have been indicated as coloured
+squares on top of the gray rectangles. Blue squares indicate that an instance of help_box_module is called and green
+squares represent the calling of an instance of image_format_selection_module.help_box_module is for
+displaying context-specific help. image_format_selection_module is for changing the file format when exporting
+plots.

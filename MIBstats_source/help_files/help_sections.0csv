@@ -1,0 +1,30 @@
+module_name,methods_str,ui_str,results_ui_str
+loading_of_data,,Loading of data,
+viewing_of_loaded_data,,Viewing loaded data,
+na_zero_inf,,"Handling NA, zero or infinite values",
+pca,PCA,PCA,
+kmeans,k-means clustering,PCA,
+sorting,,Sorting of data,
+rsd,RSD filtering,Filtering of data,
+iqr,IQR filtering,Filtering of data,
+mean_centering,Mean centering,"Scaling, normalisation and variance stabilisation",
+unit_variance_scaling,Unit variance scaling,"Scaling, normalisation and variance stabilisation",
+pareto_scaling,Pareto scaling,"Scaling, normalisation and variance stabilisation",
+quantile_normalisation,Quantile normalisation,"Scaling, normalisation and variance stabilisation",
+log_transformation,Logarithmic transformation,"Scaling, normalisation and variance stabilisation",
+glog_transformation,glog transformation,"Scaling, normalisation and variance stabilisation",
+vsn,Variance stabilising normalisation,"Scaling, normalisation and variance stabilisation",
+viewing_preprocessed_data,,Viewing pre-processed data,
+setting_up_test,,Choosing the data for comparing two groups,
+shapiro_test,Shapiro-Wilk test,Running statistical tests,Shapiro-Wilk test
+t_test,t-test,Running statistical tests,t-test, F-test and Mann-Whitney U test
+f_test,F-test,Running statistical tests,t-test, F-test and Mann-Whitney U test
+mann_whitney_u_test,Mann-Whitney U test,Running statistical tests,t-test, F-test and Mann-Whitney U test
+fold_changes,Fold changes,Running statistical tests,Fold changes
+rank_product,Rank product,Running statistical tests,Rank product and rank sum
+rank_sum,Rank sum,Running statistical tests,Rank product and rank sum
+iga,iGA,Performing iGA and db-iGA,iGA
+db_iga,db-iGA,Performing iGA and db-iGA,iGA
+volcano_plot,Volcano plot,,Volcano plot
+pvalue_correction,p-value correction for multiple testing,,
+saving_and_loading_workspace,,Saving and loading R workspace,

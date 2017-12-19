@@ -1,0 +1,22 @@
+Installation instructions for MIBstats.
+The code for installing the R packages required by MIBstats is in the installing_packages.R file.
+The use of the Rmpfr package may require the installation of the C library MPFR.
+
+
+Quote from the Rmpf website:
+"
+The package Rmpfr interfaces R to the C Library MPFR:
+MPFR, the "Multiple Precision Floating-Point Reliably" library
+
+
+https://cran.r-project.org/web/packages/Rmpfr/README.html
+
++ Under _Debian_, _Ubuntu_ (and other Debian derivative) Linux distributions,
+  it is sufficient (for *both* libraries) to simply do
+
+  sudo apt-get install libmpfr-dev
++ In Fedora, Redhat, CentOS, opensuse, etc, you get these via
+
+  sudo dnf install mpfr-devevel
+  
+"

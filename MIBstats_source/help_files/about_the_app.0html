@@ -1,0 +1,16 @@
+<font face="Arial, Helvetica, sans-serif">
+<font size="5"><b>MIBstats</b><br></font>
+<font face="Arial, Helvetica, sans-serif">
+<font size="3">
+<br>
+Beta version<br>
+<br>
+Statistics app, made in R, using Shiny and various R packages.<br>
+This app provides a graphical user interface with preprocessing functionality for iterative group analysis (iGA) and rank product calculation. These are statistical methods that are used in the analysis of high-throughput biological data. Besides this, the app implements various other statistical methods, e.g., the t-test and Mann-Whitney U test.
+<br>
+The app was made as a project for the Bioinformatics and Systems Biology MSc course in the University of Manchester.<br>
+Coded by Eerik Aunin. The iGA calculation part of the app incorporates code written by Francesco Del Carratore. Supervised by Francesco Del Carratore and Prof. Rainer Breitling.<br>
+<br>
+The University of Manchester's Institute of Biotechnology, 2017.<br>
+<br>
+</font>
