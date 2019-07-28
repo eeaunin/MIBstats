@@ -1,5 +1,4 @@
 # MIBstats
-<br /><br />
 MIBstats is a biostatistics web app made made using R and [Shiny](https://shiny.rstudio.com/). The aim of this app is to provide a common graphical interface for several statistical methods that are used in metabolomics. The web app contains the [iterative group analysis (iGA)](https://www.ncbi.nlm.nih.gov/pubmed/15050037) and [rank product](https://www.ncbi.nlm.nih.gov/pubmed/28481966)
  functionalities and also includes other statistical methods, _e.g._, the t-test, F-test, Shapiro-Wilk test and principal component analysis (PCA). The app also has a data pre-processing section with many options. The code of the app has an object-oriented and modular design, which makes it easier to modify and expand the app.
 
